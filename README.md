@@ -24,7 +24,7 @@ The **Expense Tracker** is a web application designed to help users manage and t
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/SachinKumar-code/expense-tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
