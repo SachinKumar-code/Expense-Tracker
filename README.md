@@ -46,7 +46,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any inquiries or feedback, please contact itssachik83@example.com
+For any inquiries or feedback, please contact itssachik83@gmail.com
 
 ---
 
